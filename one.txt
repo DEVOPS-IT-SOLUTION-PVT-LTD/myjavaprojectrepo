@@ -1,4 +1,5 @@
 this is my first file
-git is a VCS
+git is a VC
 GitHub is a remote repository
 girish qa
+bhaskar deploy
